@@ -26,7 +26,7 @@ const cfg = {
             initialSigma: 1.813
         }
     },
-    admins: ['FeveN#8646']
+    admins: ['175030777875136513', '310804323900719104', '220319923451330561']
 };
 
 export default cfg;
